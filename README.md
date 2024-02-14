@@ -74,6 +74,3 @@ Siéntete libre de registrarte como un auténtico hechicero o bruja en nuestra s
 # Video Demostración
 
 El video de demostración esta subido en la carpeta de GitHub
-#   P l a y g r o u n d F i n a l P r o j e c t _ B a r a g i o t t a 
- 
- 
